@@ -1,2 +1,7 @@
 # Geeks4Geeks
-contains Geeksforgeeks practice questions
+
+This repo has problem solving questions from below source:
+
+https://www.geeksforgeeks.org/
+
+
